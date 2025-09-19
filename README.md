@@ -47,7 +47,5 @@ Este proyecto analiza los patrones de consumo de café y alimentos en distintos 
 
 ---
 
-## 🚀 Cómo usar este repositorio
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/TU_USUARIO/analisis-cafe.git
+
+   
